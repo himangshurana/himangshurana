@@ -19,19 +19,13 @@ I'm a passionate cybersecurity Person with a strong interest in ethical hacking 
 ## 🔍 My Ethical Hacking Projects
 
 ### 1. Password Generator
-- **Description:** Brief description of the project and its purpose.
-- **Technologies Used:** [Technologies used in the project]
-- **Repository:** [Link to the repository]
 
-### 2. [Project Name](link-to-project)
-- **Description:** Brief description of the project and its purpose.
-- **Technologies Used:** [Technologies used in the project]
-- **Repository:** [Link to the repository]
+### 2. KeyLogger
 
-### 3. [Project Name](link-to-project)
-- **Description:** Brief description of the project and its purpose.
-- **Technologies Used:** [Technologies used in the project]
-- **Repository:** [Link to the repository]
+### 3. Network Scanner
+
+### 4. Non-Hash Password Cracker
+
 
 ## 🌐 Connect with Me
 
