@@ -12,8 +12,8 @@ I'm a passionate cybersecurity Person with a strong interest in ethical hacking 
 ## 🛠️ Technologies & Tools
 
 - **Languages:** Python, JavaScript, C, Java
-- **Tools:** Metasploit, Burp Suite, Nmap, Wireshark, OWASP ZAP
-- **Operating Systems:** Kali Linux, Windows, Ubuntu
+- **Tools:** Metasploit, Burp Suite, Nmap, Wireshark, John The Ripper, Gobuster, Nessus, Hydra
+- **Operating Systems:** Kali Linux, Windows
 
 ## 📈 GitHub Stats
 
