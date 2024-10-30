@@ -6,9 +6,6 @@
 
 I'm a passionate cybersecurity Person with a strong interest in ethical hacking and related fields. I'm constantly seeking new knowledge and experiences to stay ahead of the ever-evolving cyber threat landscape.
 
-- 🔭 I’m currently working on two Project.
-- 🌱 I’m currently learning BugBunty.
-
 ## 🛠️ Technologies & Tools
 
 - **Languages:** Python, JavaScript, C, Java
