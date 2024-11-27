@@ -18,13 +18,13 @@ I'm a passionate cybersecurity Person with a strong interest in ethical hacking 
 
 ## 🔍 My Ethical Hacking Projects
 
-### 1. Password Generator
+ 1. Password Generator
 
-### 2. KeyLogger
+ 2. KeyLogger
 
-### 3. Network Scanner
+ 3. Network Scanner
 
-### 4. Non-Hash Password Cracker
+ 4. Non-Hash Password Cracker
 
 
 ## 🌐 Connect with Me
