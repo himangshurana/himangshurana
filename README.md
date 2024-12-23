@@ -29,8 +29,8 @@ I'm a passionate cybersecurity Person with a strong interest in ethical hacking 
 
 ## 🌐 Connect with Me
 
-- [LinkedIn]([your-linkedin-profile](https://www.linkedin.com/in/himangshurana))
-- [Twitter]([your-twitter-handle](https://x.com/iamrana013))
+- [LinkedIn]([(https://www.linkedin.com/in/himangshurana))
+- [Twitter]((https://x.com/iamrana013))
 - [Email](mailto:tohimangshurana.com)
 
 ## 📜 Certifications
