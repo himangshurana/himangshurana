@@ -19,7 +19,7 @@ I'm a passionate cybersecurity Person with a strong interest in ethical hacking 
 - **Languages:** Python, JavaScript, C.
 - **Hacking Tools:** Metasploit, Burp Suite, Nmap, Wireshark, John The Ripper, Gobuster, Nessus, Hydra.
 - **Operating Systems:** Kali Linux, Windows.
-- **Data Analytics Tools:** Excel, Power BI, Numpy, Matplotlib, Plotly, Pandas, SQL.
+- **Data Analytics Tools:** Excel, Power BI, Python (Numpy, Matplotlib, Plotly, Pandas), SQL.
 
 ## 📈 GitHub Stats
 
