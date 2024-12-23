@@ -6,11 +6,19 @@
 
 I'm a passionate cybersecurity Person with a strong interest in ethical hacking and related fields. I'm constantly seeking new knowledge and experiences to stay ahead of the ever-evolving cyber threat landscape.
 
+## 📜 Certifications
+
+- Ethical Hacker - CISCO (2024)
+- Cyber Security - Tech Mahindra  (2024)
+- CompTIA PenTest+ Training & LAB - Udemy (2024)
+- Python Programming - National Skill Development (2024)
+- Data Analytics - Anudip Foundation (2024)
+
 ## 🛠️ Technologies & Tools
 
-- **Languages:** Python, JavaScript, C, Java
-- **Tools:** Metasploit, Burp Suite, Nmap, Wireshark, John The Ripper, Gobuster, Nessus, Hydra
-- **Operating Systems:** Kali Linux, Windows
+- **Languages:** Python, JavaScript, C.
+- **Tools:** Metasploit, Burp Suite, Nmap, Wireshark, John The Ripper, Gobuster, Nessus, Hydra.
+- **Operating Systems:** Kali Linux, Windows.
 
 ## 📈 GitHub Stats
 
@@ -26,19 +34,18 @@ I'm a passionate cybersecurity Person with a strong interest in ethical hacking 
 
  4. Non-Hash Password Cracker
 
+## 🔍 Data Analytics Projects
 
+ 1. Analysis On Expenditure
+
+ 2. UPI Fraud Detection Data Analysis
+
+    
 ## 🌐 Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/himangshurana)
 - [Twitter](https://x.com/iamrana013)
 - [Email](mailto:tohimangshurana.com)
-
-## 📜 Certifications
-
-- Ethical Hacker - CISCO (2024)
-- Cyber Security - Tech Mahindra  (2024)
-- CompTIA PenTest+ Training & LAB - Udemy (2024)
-- Python Programming - National Skill Development (2024)
 
 
 ## 🤝 Contribution Guidelines
