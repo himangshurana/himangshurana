@@ -21,9 +21,6 @@ I'm a passionate cybersecurity Person with a strong interest in ethical hacking 
 - **Operating Systems:** Kali Linux, Windows.
 - **Data Analytics Tools:** Excel, Power BI, Python (Numpy, Matplotlib, Plotly, Pandas), SQL.
 
-## 📈 GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=himangshurana&show_icons=true&hide_title=true&count_private=true&theme=radical)
 
 ## 🔍 My Ethical Hacking Projects
 
@@ -41,7 +38,12 @@ I'm a passionate cybersecurity Person with a strong interest in ethical hacking 
 
  2. UPI Fraud Detection Data Analysis
 
-    
+
+## 📈 GitHub Stats
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=himangshurana&show_icons=true&hide_title=true&count_private=true&theme=radical)
+
+
 ## 🌐 Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/himangshurana)
