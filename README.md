@@ -57,40 +57,6 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="2px"/>
 </div>
 
-## 🏆 Live TryHackMe Progress & Recognition
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="50%">
-        <h3>🚀 Real-Time Achievement Dashboard</h3>
-        <iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3305509" 
-                style="border:none; width:400px; height:300px; border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);" 
-                title="TryHackMe Live Progress">
-        </iframe>
-        <br><br>
-        <img src="https://img.shields.io/badge/TryHackMe-Live%20Progress-red?style=for-the-badge&logo=tryhackme&logoColor=white&labelColor=000000" alt="TryHackMe Live"/>
-      </td>
-      <td align="center" width="50%">
-        <h3>🎯 Achievement Highlights</h3>
-        <img src="https://img.shields.io/badge/Active%20Learner-365%2B%20Days-success?style=for-the-badge&labelColor=000000" alt="Active Learner"/>
-        <br><br>
-        <img src="https://img.shields.io/badge/Rooms%20Completed-250%2B-blue?style=for-the-badge&labelColor=000000" alt="Rooms Completed"/>
-        <br><br>
-        <img src="https://img.shields.io/badge/Global%20Rank-Top%205%25-gold?style=for-the-badge&labelColor=000000" alt="Global Rank"/>
-        <br><br>
-        <img src="https://img.shields.io/badge/Skill%20Level-Advanced-orange?style=for-the-badge&labelColor=000000" alt="Skill Level"/>
-        <br><br>
-        <img src="https://img.shields.io/badge/Streak%20Master-Consistent-purple?style=for-the-badge&labelColor=000000" alt="Streak Master"/>
-      </td>
-    </tr>
-  </table>
-</div>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="2px"/>
-</div>
-
 ## 🎓 Professional Certifications & Training
 
 <div align="center">
