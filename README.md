@@ -57,23 +57,31 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="2px"/>
 </div>
 
-## 🏆 Professional Achievements & Recognition
+## 🏆 Live TryHackMe Progress & Recognition
 
 <div align="center">
   <table>
     <tr>
       <td align="center" width="50%">
-        <img src="https://tryhackme-badges.s3.amazonaws.com/3305509.png" alt="TryHackMe Badge" width="280" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);"/>
+        <h3>🚀 Real-Time Achievement Dashboard</h3>
+        <iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3305509" 
+                style="border:none; width:400px; height:300px; border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);" 
+                title="TryHackMe Live Progress">
+        </iframe>
         <br><br>
-        <img src="https://img.shields.io/badge/TryHackMe-Elite%20Hacker-red?style=for-the-badge&logo=tryhackme&logoColor=white&labelColor=000000" alt="TryHackMe Elite"/>
+        <img src="https://img.shields.io/badge/TryHackMe-Live%20Progress-red?style=for-the-badge&logo=tryhackme&logoColor=white&labelColor=000000" alt="TryHackMe Live"/>
       </td>
       <td align="center" width="50%">
         <h3>🎯 Achievement Highlights</h3>
-        <img src="https://img.shields.io/badge/Rooms%20Completed-250%2B-success?style=for-the-badge&labelColor=000000" alt="Rooms"/>
+        <img src="https://img.shields.io/badge/Active%20Learner-365%2B%20Days-success?style=for-the-badge&labelColor=000000" alt="Active Learner"/>
         <br><br>
-        <img src="https://img.shields.io/badge/Global%20Rank-Top%205%25-gold?style=for-the-badge&labelColor=000000" alt="Rank"/>
+        <img src="https://img.shields.io/badge/Rooms%20Completed-250%2B-blue?style=for-the-badge&labelColor=000000" alt="Rooms Completed"/>
         <br><br>
-        <img src="https://img.shields.io/badge/Streak-365%20Days-orange?style=for-the-badge&labelColor=000000" alt="Streak"/>
+        <img src="https://img.shields.io/badge/Global%20Rank-Top%205%25-gold?style=for-the-badge&labelColor=000000" alt="Global Rank"/>
+        <br><br>
+        <img src="https://img.shields.io/badge/Skill%20Level-Advanced-orange?style=for-the-badge&labelColor=000000" alt="Skill Level"/>
+        <br><br>
+        <img src="https://img.shields.io/badge/Streak%20Master-Consistent-purple?style=for-the-badge&labelColor=000000" alt="Streak Master"/>
       </td>
     </tr>
   </table>
@@ -241,7 +249,7 @@
 - Customer behavior anomaly detection
 - *Tech Stack: Python, Scikit-learn, TensorFlow*
 
-**💰 Financial Fraud Detection Engine**
+**💰 Financial Analytics Dashboard**
 - Real-time transaction monitoring system
 - Advanced pattern recognition algorithms
 - Risk assessment and scoring models
@@ -250,8 +258,129 @@
 </td>
 <td width="50%" valign="top">
 
-**🔐 UPI Security Analytics Platform**
+**🔐 UPI Fraud Detection System**
 - Advanced anomaly detection algorithms
 - Real-time fraud prevention system
 - Behavioral analysis and risk scoring
-- *Tech Stack: Python
+- *Tech Stack: Python, ML, Real-time Processing*
+
+**🎯 Threat Intelligence Platform**
+- Data-driven security insights engine
+- Predictive threat modeling framework
+- Automated threat hunting capabilities
+- *Tech Stack: Python, SQL, Advanced Analytics*
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="2px"/>
+</div>
+
+## 📊 GitHub Performance Analytics
+
+<div align="center">
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=himangshurana&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00d9ff&icon_color=00d9ff&text_color=ffffff" alt="GitHub Stats"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=himangshurana&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00d9ff&text_color=ffffff" alt="Most Used Languages"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=himangshurana&theme=tokyonight&hide_border=true&background=0D1117&stroke=00d9ff&ring=00d9ff&fire=ff6b6b&currStreakLabel=00d9ff" alt="GitHub Streak"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=himangshurana&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00d9ff&line=00d9ff&point=ff6b6b&area_color=00d9ff&title_color=00d9ff" alt="Activity Graph"/>
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="2px"/>
+</div>
+
+## 🏆 Professional Recognition & Community Impact
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Security%20Conferences-Speaker-gold?style=for-the-badge&labelColor=000000" alt="Speaker"/>
+        <br><b>Industry Speaker</b>
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Bug%20Bounty-Hunter-red?style=for-the-badge&labelColor=000000" alt="Bug Bounty"/>
+        <br><b>Bug Bounty Hunter</b>
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Open%20Source-Contributor-blue?style=for-the-badge&labelColor=000000" alt="Open Source"/>
+        <br><b>OSS Contributor</b>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="2px"/>
+</div>
+
+## 🌐 Professional Network & Collaboration
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/himangshurana">
+    <img src="https://img.shields.io/badge/LinkedIn-Professional%20Network-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000" alt="LinkedIn"/>
+  </a>
+  <a href="https://x.com/iamrana013">
+    <img src="https://img.shields.io/badge/Twitter-Tech%20Insights-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=000000" alt="Twitter"/>
+  </a>
+  <a href="mailto:tohimangshurana@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Professional%20Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000" alt="Email"/>
+  </a>
+  <a href="https://tryhackme.com/p/himangshurana">
+    <img src="https://img.shields.io/badge/TryHackMe-Elite%20Profile-212C42?style=for-the-badge&logo=tryhackme&logoColor=white&labelColor=000000" alt="TryHackMe"/>
+  </a>
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="2px"/>
+</div>
+
+## 🤝 Strategic Partnership & Collaboration Opportunities
+
+<div align="center">
+
+### 🎯 Specialized Consulting Services
+
+<img src="https://img.shields.io/badge/🔎_Advanced_Penetration_Testing-Critical%20Infrastructure-FF6B35?style=for-the-badge&labelColor=000000" alt="Penetration Testing"/>
+<img src="https://img.shields.io/badge/🧪_Digital_Forensics-Incident%20Response-4682B4?style=for-the-badge&labelColor=000000" alt="Digital Forensics"/>
+<img src="https://img.shields.io/badge/🔧_Infrastructure_Security-Enterprise%20Solutions-1679A7?style=for-the-badge&labelColor=000000" alt="Infrastructure Security"/>
+<img src="https://img.shields.io/badge/📊_Threat_Intelligence-Predictive%20Analytics-00549E?style=for-the-badge&labelColor=000000" alt="Threat Intelligence"/>
+<img src="https://img.shields.io/badge/🤖_Security_Automation-AI%20Integration-8B0000?style=for-the-badge&labelColor=000000" alt="Security Automation"/>
+<img src="https://img.shields.io/badge/🎓_Training_&_Mentorship-Skill%20Development-FF1493?style=for-the-badge&labelColor=000000" alt="Training"/>
+
+### 🌟 Areas of Research & Innovation
+- **Zero-Day Research & Exploit Development**
+- **AI-Powered Threat Detection Systems**
+- **Blockchain Security & Smart Contract Auditing**
+- **IoT Security & Embedded Systems**
+- **Cloud Security Architecture & DevSecOps**
+
+</div>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="80">
+  <br>
+  <em><b>🚀 Let's collaborate to build the future of cybersecurity together! 🚀</b></em>
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="2px"/>
+</div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Thanks+for+visiting+my+profile!+🙏;Let's+secure+the+digital+world+together+🔐;Innovation+%7C+Excellence+%7C+Security+First+🛡️;Building+tomorrow's+cybersecurity+today+🚀&center=true&width=800&height=60&color=00d9ff&vCenter=true&size=20&font=Fira%20Code&duration=3500&pause=1000">
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&animation=fadeIn" alt="Footer"/>
+</div>
